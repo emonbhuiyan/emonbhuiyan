@@ -19,7 +19,7 @@
 <br/>
 
 ## 👨‍💻 About Me
-I am a **Computer Engineering Student** at **Bingol University** and a Freelancer. My passion lies in solving real-world problems through code, whether it's optimizing network traffic with **OpenWRT**, assembling **Linux automation scripts**, or building web utilities.
+I am a **Computer Engineering Student** at **Bingol University** and a **Top Rated Freelancer** at **[UpWork](https://www.upwork.com/freelancers/emonbhuiyan)**. My passion lies in solving real-world problems through code, whether it's optimizing network traffic with **OpenWRT**, assembling **Linux automation scripts**, or building web utilities.
 
 * 🔭 **I’m currently working on:** Optimizing Linux workflows and mastering **Turkish**.
 * 🌱 **I’m currently learning:** Advanced algorithms and system automation.
@@ -34,6 +34,10 @@ I am a **Computer Engineering Student** at **Bingol University** and a Freelance
 |:---:|:---:|:---:|
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![OpenWRT](https://img.shields.io/badge/OpenWRT-005696?style=flat-square&logo=openwrt&logoColor=white) |
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white) |
+
+**Specialized Skills**
+![AppScript](https://img.shields.io/badge/Google_AppScript-4285F4?style=flat-square&logo=google&logoColor=white) ![Discourse](https://img.shields.io/badge/Discourse-231F20?style=flat-square&logo=discourse&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-Search_Optimization-4285F4?style=flat-square&logo=google-search-console&logoColor=white) 
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-Automation-orange?style=flat-square&logo=robot-framework&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Processing-blue?style=flat-square&logo=google-analytics&logoColor=white)
 
 </div>
 
@@ -54,8 +58,8 @@ I am a **Computer Engineering Student** at **Bingol University** and a Freelance
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emonbhuiyan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonbhuiyan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emonbhuiyan&show_icons=true&theme=radical&hide_border=true" alt="Emon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonbhuiyan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
@@ -67,7 +71,6 @@ I am a **Computer Engineering Student** at **Bingol University** and a Freelance
 </div>
 
 ---
-<!-- GitAds-Verify: ZMF8G8W38CE3F21EG7EFODINJ53PHARA -->
 ## GitAds Sponsored
 [![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=emonbhuiyan/emonbhuiyan@github)](https://gitads.dev/v1/ad-track?source=emonbhuiyan/emonbhuiyan@github)
 
