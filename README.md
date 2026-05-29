@@ -73,9 +73,9 @@ I am a **Computer Engineering Student** at **Bingol University** and a **Top Rat
 
 <br/>
 
-<div align="center"> 
-  <a href="https://twitter.com/itsEmonBhuiyan">
-    <img src="https://img.shields.io/twitter/follow/itsEmonBhuiyan?style=social" alt="twitter" />
+<div align="center">
+  <a href="https://x.com/itsEmonBhuiyan">
+    <img src="https://img.shields.io/badge/X-%40itsEmonBhuiyan-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
   </a>
 </div>
 
