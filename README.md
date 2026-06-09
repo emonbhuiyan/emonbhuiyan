@@ -53,16 +53,12 @@ I enjoy learning by building. From Linux utilities and OCR tools to network opti
 
 ## 🏆 Featured Repositories
 
-### 🐧 Linux & System Utilities
-
-* **[Screenshot-OCR-Linux](https://github.com/emonbhuiyan/Screenshot-OCR-Linux)** — Capture screenshots and perform OCR instantly on Linux using a simple shell script.
 * **[Redsocks-OpenWRT](https://github.com/emonbhuiyan/Redsocks-OpenWRT)** — Configure Redsocks proxy tunneling on OpenWRT routers.
-* **[BDIX-OpenWRT](https://github.com/emonbhuiyan/BDIX-OpenWRT)** — Improve connectivity and routing with SOCKS5 proxies on OpenWRT.
-
-### 🧮 Web Tools
-
+* **[Screenshot-OCR-Linux](https://github.com/emonbhuiyan/Screenshot-OCR-Linux)** — Capture screenshots and perform OCR instantly on Linux.
 * **[Zakat-Calculator](https://github.com/emonbhuiyan/Zakat-Calculator)** — A mobile-friendly Zakat calculator with real-time exchange rates.
+* **[XRate-Pro](https://github.com/emonbhuiyan/XRate-Pro)** — A modern currency converter with real-time and historical exchange rates.
 * **[Gold-Weight-Calculator](https://github.com/emonbhuiyan/Gold-Weight-Calculator)** — Calculate pure gold content and estimated value from mixed-carat items.
+* **[Dil-Bilgisi-Rehberi](https://github.com/emonbhuiyan/Dil-Bilgisi-Rehberi)** — A Turkish grammar learning resource built through practical examples and self-study.
 
 ---
 
@@ -87,11 +83,5 @@ I enjoy learning by building. From Linux utilities and OCR tools to network opti
     <img src="https://img.shields.io/badge/X-%40itsEmonBhuiyan-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
   </a>
 </div>
-
----
-
-## GitAds Sponsored
-
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=emonbhuiyan/emonbhuiyan@github)](https://gitads.dev/v1/ad-track?source=emonbhuiyan/emonbhuiyan@github)
 
 ---
