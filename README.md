@@ -71,6 +71,10 @@ I am a **Computer Engineering Student** at **Bingol University** and a **Top Rat
 
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=emonbhuiyan&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
 <br/>
 
 <div align="center">
@@ -79,17 +83,7 @@ I am a **Computer Engineering Student** at **Bingol University** and a **Top Rat
   </a>
 </div>
 
-<div align="center">
 
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=emonbhuiyan&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=emonbhuiyan&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=emonbhuiyan&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 ## GitAds Sponsored
